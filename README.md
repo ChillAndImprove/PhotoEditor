@@ -1,7 +1,7 @@
 # PhotoEditor from scratch only Java 
 Editor der Bilder mit z.B. jpg-Format bearbeiten kann.
 
-**Diashow-Funktion**</br>
+**Diashowfunktion**</br>
 ![Alt Text](https://s4.gifyu.com/images/diashow1.gif)
 
 **License:**</br>
