@@ -3,5 +3,5 @@ Editor der Bilder mit z.B. jpg-Format bearbeiten kann.
 
 
 
-**License:**
+**License:**</br>
 Apache 1.0
