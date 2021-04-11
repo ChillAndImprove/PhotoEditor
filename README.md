@@ -1,4 +1,4 @@
-# PhotoEditor from Scratch only Java 
+# PhotoEditor from scratch only Java 
 Editor der Bilder mit z.B. jpg-Format bearbeiten kann.
 
 **Look:**</br>
